@@ -1,0 +1,9 @@
+# Exclude virtual environment directories
+/venv/
+/.venv/
+
+# Exclude IDE metadata
+/.idea/
+
+# Exclude Jupyter Notebook checkpoints
+**/.ipynb_checkpoints/
