@@ -13,4 +13,6 @@
 *.keras
 **/tensorboard/
 
-/lab1/data/
+/lab1/data/*
+!/lab1/data/test/
+!/lab1/data/test/**
