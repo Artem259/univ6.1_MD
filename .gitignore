@@ -7,3 +7,10 @@
 
 # Exclude Jupyter Notebook checkpoints
 **/.ipynb_checkpoints/
+
+# Exclude training outputs
+*.weights.h5
+*.keras
+**/tensorboard/
+
+/lab1/data/
